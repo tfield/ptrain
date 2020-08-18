@@ -1,29 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~ Copyright (C) 2007-2020 Crafter Software Corporation. All Rights Reserved.
-  ~
-  ~ This program is free software: you can redistribute it and/or modify
-  ~ it under the terms of the GNU General Public License version 3 as published by
-  ~ the Free Software Foundation.
-  ~
-  ~ This program is distributed in the hope that it will be useful,
-  ~ but WITHOUT ANY WARRANTY; without even the implied warranty of
-  ~ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-  ~ GNU General Public License for more details.
-  ~
-  ~ You should have received a copy of the GNU General Public License
-  ~ along with this program.  If not, see <http://www.gnu.org/licenses/>.
-  -->
-
 <page>
-	<content-type>/page/entry</content-type>	<display-template>/templates/web/entry.ftl</display-template>
+	<content-type>/page/entry</content-type>
+	<display-template>/templates/web/entry.ftl</display-template>
+	<no-template-required/>
 	<merge-strategy>inherit-levels</merge-strategy>
 	<placeInNav>false</placeInNav>
 	<file-name>index.xml</file-name>
 	<internal-name>Home</internal-name>
 	<orderDefault_f>-1</orderDefault_f>
 	<body_html>&lt;h1&gt;Welcome to Your Crafter CMS Site.&lt;/h1&gt;
-&lt;p&gt;This site blueprint is the equivalent of a Hello World. It&amp;#39;s a blank slate on which you can build your own digital experience.&lt;/p&gt;
+&lt;p&gt;This site blueprint is the equivalent of a Hello World. It's a blank slate on which you can build your own digital experience.&lt;/p&gt;
 &lt;p&gt;&lt;br /&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;To create new content types use the Site Config menu in the left Sidebar&lt;/li&gt;
@@ -42,8 +28,9 @@
 	<folder-name/>
 	<createdDate>2017-1-31T16:18:14.000Z</createdDate>
 	<createdDate_dt>2017-1-31T16:18:14.000Z</createdDate_dt>
-	<lastModifiedDate>2017-1-31T19:12:56.000Z</lastModifiedDate>
-	<lastModifiedDate_dt>2017-1-31T19:12:56.000Z</lastModifiedDate_dt>
+	<lastModifiedDate>2020-08-18T19:51:49.627Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-18T19:51:49.627Z</lastModifiedDate_dt>
 	<title_t>Hello!</title_t>
 	<disabled>false</disabled>
+	<myNewField_s>Homer Simpson</myNewField_s>
 </page>
