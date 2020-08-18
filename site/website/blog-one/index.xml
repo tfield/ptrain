@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<page>
+	<content-type>/page/blogpost</content-type>
+	<display-template>/templates/web/blogpost.ftl</display-template>
+	<no-template-required>true</no-template-required>
+	<merge-strategy>inherit-levels</merge-strategy>
+	<objectGroupId>0f35</objectGroupId>
+	<objectId>0f35e694-024d-80cc-9fc4-53e313857588</objectId>
+	<file-name>index.xml</file-name>
+	<folder-name>blog-one</folder-name>
+	<internal-name>Blog post 1</internal-name>
+	<navLabel>Blog post 1</navLabel>
+	<placeInNav>true</placeInNav>
+	<orderDefault_f>1000</orderDefault_f>
+	<createdDate>2020-08-18T21:25:32.082Z</createdDate>
+	<createdDate_dt>2020-08-18T21:25:32.082Z</createdDate_dt>
+	<lastModifiedDate>2020-08-18T21:25:32.082Z</lastModifiedDate>
+	<lastModifiedDate_dt>2020-08-18T21:25:32.082Z</lastModifiedDate_dt>
+</page>
